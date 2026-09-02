@@ -1,0 +1,6 @@
+{
+  "name": "Markets Everywhere",
+  "description": "High-performance financial markets overview, indices, stock categories, and real-time interactive market intelligence inspired by TradingView.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
